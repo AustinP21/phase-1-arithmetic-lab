@@ -1,2 +1,12 @@
-
-// Write your code here
+const num1 = 2;
+const num2 = 31;
+let multiply = num1 * num2;
+console.log (multiply);
+let random = 1;
+Number.isInteger (random);
+const num3 = 22;
+const num4 = 6;
+let mod = num3 % num4;
+console.log (mod);
+let max = 20;
+Math.max (1,2,5,8,max);
